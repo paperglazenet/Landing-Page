@@ -1,0 +1,1 @@
+Landing Page project for the CSS section of The Odin Project. First time building something like this from scratch :)
