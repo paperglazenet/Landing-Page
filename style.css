@@ -127,3 +127,38 @@ button {
     color: #1F2937;
     font-weight: bold;
 }
+
+.call-to-action {
+    padding-top: 80px;
+    padding-bottom: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.blue-box {
+    width: 1100px;
+    background-color: #3882f6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px 50px;
+}
+
+.cta-head {
+    font-size: 24px;
+    color: #F9FaF8;
+    font-weight: bold;
+}
+
+.cta-text {
+    margin-right: 150px;
+}
+
+.cta-sub {
+    font-size: 18px;
+    color: #f9faf8;
+}
+
+.cta-button {
+    border: 2px solid #f9faf8;
+}
